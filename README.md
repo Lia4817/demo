@@ -69,6 +69,12 @@
 
 > n+1个节点 2n+2个条件 P（x）是最高次为2n+1的多项式
 > 
+> 一般考两点三次
+> 
+> ![image](https://user-images.githubusercontent.com/94452452/142862526-67a60c81-929c-4120-baba-08e9fbaff5c6.png)
+> 
+> 余项未看
+
 
 
 
