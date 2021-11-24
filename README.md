@@ -79,6 +79,8 @@
 
 ### （1）最小二乘法
 
+就考10分，每步骤2分，大题，把雨课堂的12 13 14搞定就行
+
 > 解题步骤
 > 
 > （1）线性化
@@ -90,7 +92,14 @@
 > （4）计算
 > 
 > （5）反代换
+
+> 例子
 > 
+> ![image](https://user-images.githubusercontent.com/94452452/143236902-8a41abc2-3f8c-4e4a-bfe6-f4f7d3cc881f.png)
+> 
+> ![image](https://user-images.githubusercontent.com/94452452/143238315-3ef949b7-00ed-4857-b0e3-ee87c808826f.png)
+
+
 
 
 
