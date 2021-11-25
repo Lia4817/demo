@@ -99,6 +99,41 @@
 > 
 > ![image](https://user-images.githubusercontent.com/94452452/143238315-3ef949b7-00ed-4857-b0e3-ee87c808826f.png)
 
+##  第四章  
+
+等距节点
+
+### （1）代数精度(必考)
+
+### （2）机械求积公式
+
+### （3）矩形公式
+
+![image](https://user-images.githubusercontent.com/94452452/143246289-b67e6d6d-8802-441c-8a4f-ec429e4e2c9b.png)
+
+### （4）梯形公式T   n=1  m=1  
+
+![image](https://user-images.githubusercontent.com/94452452/143411609-e96b58fc-0ac5-4e4c-a975-4b20b94d8f85.png)
+
+![image](https://user-images.githubusercontent.com/94452452/143246451-b5842ad2-43d9-40e7-aff3-72069072ef1e.png)
+
+### （5）辛普森公式S    n=2  m=3
+
+![image](https://user-images.githubusercontent.com/94452452/143411742-57ca1e29-9be7-4492-ae98-7da97c81918a.png)
+
+### （6）牛顿-科特斯公式C  n=4  m=5   n为偶数时，m=n+1
+
+![image](https://user-images.githubusercontent.com/94452452/143411715-3a32eda4-983a-4f58-8df4-27c12eac319d.png)
+
+> 等距节点 插值型
+
+### （7）插值型求积公式
+
+定理3
+
+
+
+
 
 
 
