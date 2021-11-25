@@ -150,10 +150,15 @@ n个辛普森公式可以计算2n个小区间的面积（使用2n+1个节点）
 所以需要奇数个点，偶数个小区间才可以使用复合辛普森公式
 
 1 4 1   1 4 1   1 4 1   1 4 1   1 4 1
+
     1 4 1   1 4 1   1 4 1   1 4 1
+    
 1 4 2 4 2 4 2 4 2 4 2 4 2 4 2 4 2 4 1
 
 ![image](https://user-images.githubusercontent.com/94452452/143438044-1250dafc-16e5-44c5-b550-85cf557c4873.png)
+
+![image](https://user-images.githubusercontent.com/94452452/143438858-69d48221-aa94-41ba-9b84-c05750e45cde.png)
+
 
 
 
