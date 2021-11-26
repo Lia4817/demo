@@ -99,7 +99,7 @@
 > 
 > ![image](https://user-images.githubusercontent.com/94452452/143238315-3ef949b7-00ed-4857-b0e3-ee87c808826f.png)
 
-##  第四章  
+##  第四章 数值积分
 
 等距节点
 
@@ -159,7 +159,31 @@ n个辛普森公式可以计算2n个小区间的面积（使用2n+1个节点）
 
 ![image](https://user-images.githubusercontent.com/94452452/143438858-69d48221-aa94-41ba-9b84-c05750e45cde.png)
 
+上面这张图片右侧仅仅只是单个小区间的误差，还需要乘以n，得到下面这张图片中的结果
 
+![image](https://user-images.githubusercontent.com/94452452/143551007-cfd9c76e-15ce-4f71-b542-f8217788b34b.png)
+
+### （10）龙贝格求积公式
+
+![image](https://user-images.githubusercontent.com/94452452/143553698-ba85eae9-b56f-42ee-979a-dd0b96a71aeb.png)
+
+梯形变步长计算思路：首先选定初值n和h，计算出Tn，然后步长折半，原本的值取一半，加上现有的步长（或者之前步长的一半）乘以多出来的节点函数值之和
+
+![image](https://user-images.githubusercontent.com/94452452/143568629-39597670-0ef4-4d87-8357-4d0d72a2a4eb.png)
+
+![image](https://user-images.githubusercontent.com/94452452/143570229-690c33e3-c6ab-4165-bc3f-e8fb06db9e7f.png)
+
+> 以上均为等距节点
+
+### （11）高斯型积分 
+
+只会涉及到`定义，非等距节点`
+
+将节点 x0 … xn 以及系数 A0 … An 都作为待定系数。令 f (x) = 1, x, x2, …, x2n+1 代入可求解，得到的公式具有2n+1 次代数精度
+
+总结：关于代数精度，讲到n+1个等距节点时，代数精度为n；n+1个非等距节点，此时节点的横坐标都未知，共计2n+2个未知数，所以代数精度为2n+1
+
+##  第五章 解线性方程组的直接方法
 
 
 
