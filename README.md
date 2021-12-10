@@ -121,6 +121,10 @@
 
 ![image](https://user-images.githubusercontent.com/94452452/143411742-57ca1e29-9be7-4492-ae98-7da97c81918a.png)
 
+![image](https://user-images.githubusercontent.com/94452452/145538366-10fd20be-9afc-4383-8c51-249858cfd553.png)
+
+https://zhuanlan.zhihu.com/p/105456204?utm_source=wechat_session
+
 ### （6）牛顿-科特斯公式C  n=4  m=5   定理3：n为偶数时，m=n+1
 
 ![image](https://user-images.githubusercontent.com/94452452/143411715-3a32eda4-983a-4f58-8df4-27c12eac319d.png)
